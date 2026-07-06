@@ -1,0 +1,13 @@
+# Generated images
+*.png
+
+# Dataset folders
+up/
+down/
+pause/
+play/
+stop/
+
+# Python environment
+.venv/
+__pycache__/
